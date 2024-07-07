@@ -7,16 +7,15 @@ My goal was to build the back-end for the application "e-commrece site" using Ex
 ## Installation
 
 1. Use the command line to navigate the directory of the application
-2. Clone this project repo to your computer: "git clone [insert the repo's link]"
-3. Install the dependcies: "npm install"
-4. Install dotenv: "npm i dotenv" 
-5. Create database use PostgreSQL shell commands:
-    "psql -U postgres"
-    "\c ecommerce_db"
-    "\i db/schema.sql"
-6. When the database is created you need to go out of PostgreSQL shell: "/q"
-7. Seed the database from the command line: "npm run seed"
-8. Start the application's server: "npm start"
+2. Clone my repo to your computer: "git clone [insert the repo's link]"
+3. Access to the folder: "cd AnnaK-ecommerce-site"
+4. Install some necessary packages: "npm install"
+5. Make sure you have your psql account and set up DB_NAME:
+    DB_NAME = "ecommerce_db"
+    DB_USER = "[insert your psql username]"
+    DB_PASSWORD = "[insert your psql password]"
+6. Seed the database from the command line: "npm run seed"
+7. Run the server: "npm start"
 
 ## Testing
 
