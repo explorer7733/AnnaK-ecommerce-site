@@ -27,13 +27,9 @@ Access the application at http://localhost:3001
 
 ## Link to the walkthrough video
 
-To review "AnnaK-ecommerce-site", you can click on the link to the walkthrough video and the screenshot link below.
+To review "AnnaK-ecommerce-site", you can click on the link to the walkthrough video below:
 
 ![Link to my video](https://drive.google.com/file/d/1F1msvDtvTuKmYiVxCJfYloaN_XK75XC1/view)
-
-## Screenshots
-
-![screenshot]()
 
 ## Credits
 
